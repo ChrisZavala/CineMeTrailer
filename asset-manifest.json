@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cinemetrailer/static/css/main.046121b0.css",
-    "main.js": "/cinemetrailer/static/js/main.9c2863bc.js",
+    "main.js": "/cinemetrailer/static/js/main.df48fb93.js",
     "static/media/movie-background-collage.jpg": "/cinemetrailer/static/media/movie-background-collage.9af8c417b0259721d32b.jpg",
     "index.html": "/cinemetrailer/index.html",
     "main.046121b0.css.map": "/cinemetrailer/static/css/main.046121b0.css.map",
-    "main.9c2863bc.js.map": "/cinemetrailer/static/js/main.9c2863bc.js.map"
+    "main.df48fb93.js.map": "/cinemetrailer/static/js/main.df48fb93.js.map"
   },
   "entrypoints": [
     "static/css/main.046121b0.css",
-    "static/js/main.9c2863bc.js"
+    "static/js/main.df48fb93.js"
   ]
 }
